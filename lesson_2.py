@@ -1,2 +1,3 @@
 a = "asas"
-b = 1234
+
+print(a)
