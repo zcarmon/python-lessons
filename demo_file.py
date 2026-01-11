@@ -1,2 +1,3 @@
 print(1)
-print("@")
+a = 19
+print(a)
